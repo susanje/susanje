@@ -2,7 +2,7 @@
 - 👀 I’m interested in data Analyst, data engineer and machine learning
 - 🌱 I’m currently learning in SoyHenry and CodoaCodo2.0
 - 💞️ I’m looking to collaborate on SoyHenry
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/estefania-susanj-738bb7229
 
 <!---
 susanje/susanje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
